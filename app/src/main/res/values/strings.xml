@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RapidResQ Monitor</string>
+    <string name="accessibility_description">This service monitors screen activity and handles remote commands for RapidResQ.</string>
+</resources>
